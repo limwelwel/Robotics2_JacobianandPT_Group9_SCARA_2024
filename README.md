@@ -24,11 +24,22 @@
 <p align="center"><img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/997852d02716c1a5c075a7d8b32b30ed78079f10/Final/Jacobi.png"  height="150px"/>
 <h4 align="center"> <b>Carl Gustav Jacob Jacobi</b> </h4>
 <p align="justify"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <b><i>Jacobian Matrix</i></b> is a mathematical matrix that captures the relationship between the partial derivatives of a function and its variables. In the context of robot programming, this function is typically the forward kinematics, which establishes the correspondence between the robot's joint angles and the position as well as the orientation of its end-effector. By employing the Jacobian matrix, we can understand how changes in the joint velocity affect the velocity of the end-effector. This matrix finds application in diverse areas of robot programming, including motion planning, control, and optimization, enabling efficient and effective operations. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <b><i>Jacobian Matrix</i></b> is a mathematical matrix that captures the relationship between the partial derivatives of a function and its variables. In the context of robot programming, this function is typically the forward kinematics, which establishes the correspondence between the robot's joint angles and the position as well as the orientation of its end-effector. By employing the Jacobian matrix, we can understand how changes in the joint velocity affect the velocity of the end-effector. This matrix finds application in diverse areas of robot programming, including motion planning, control, and optimization, enabling efficient and effective operations.
+
+<p align="center">
+<img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/1.png">
+<p align="center">
+<img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/2.png">
+<p align="center">
+<img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/3.png">
+<p align="center">
+<img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/4.png">
+<p align="center">
+<img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/5.png">
 
 <p align="center">
   <a href="...."><img alt="Task 1" title="Task 1" src="..."height="400px"/></a>
-<h3 align="center"> <b><i>Video 1. Solving the DOF (Degrees of Freedom) of the Standard SCARA Manipulator</i></b> </h3> 
+<h3 align="center"> <b><i>Video 1. Solving the Jacobian Matrix of the Standard SCARA Manipulator</i></b> </h3> 
  
 ## IV. Differential Equation of SCARA Mechanical Manipulaltor
 <p align="justify"> 
