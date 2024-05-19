@@ -32,7 +32,7 @@
 ## V. Path and Trajectory Planning of SCARA Mechanical Manipulaltor
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Path Planning</i></b> is a way for mechanical manipulators to find the shortest and most obstacle-free path from the start to its goal state. The path that is used can be a set of states (known as position and/or orientation) or even waypoints. Moreover, path planning is required to have a map of the mechanical manipulator's environment along with its start and goal states as input. This map could be represented with the use of grid maps, state spaces, or even topological roadmaps.
-
+<p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Trajectory Planning</i></b>, on the other hand, consists of finding a time series of successive joint angles, which allows a mechanical manipulator to move from a starting configuration toward a goal configuration, which allows the manipulator to achieve a certain task. In addition, it is used in generating a time schedule for how to follow a path given constraints such as position, velocity, and acceleration.
 
 ## VI. References
