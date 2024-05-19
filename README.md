@@ -37,6 +37,7 @@
 
 ## VI. References
 <p align="justify"> 
+TheFamousPeople. (n.d.). Carl Gustav Jacob Jacobi. Carl Gustav Jacob Jacobi Biography. https://www.thefamouspeople.com/profiles/carl-gustav-jacob-jacobi-6029.php
 
 <h3 align="center">G9 SCARA ENGINEERS</h3>
 
