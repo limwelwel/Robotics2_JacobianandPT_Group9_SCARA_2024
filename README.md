@@ -22,12 +22,16 @@
 
 ## III. Jacobian Matrix of SCARA Mechanical Manipulaltor
 <p align="justify"> 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <b><i>Jacobian Matrix</i></b> is a mathematical matrix that captures the relationship between the partial derivatives of a function and its variables. In the context of robot programming, this function is typically the forward kinematics, which establishes the correspondence between the robot's joint angles and the position as well as the orientation of its end-effector. By employing the Jacobian matrix, we can understand how changes in the joint velocity affect the velocity of the end-effector. This matrix finds application in diverse areas of robot programming, including motion planning, control, and optimization, enabling efficient and effective operations. 
+ 
 ## IV. Differential Equation of SCARA Mechanical Manipulaltor
 <p align="justify"> 
 
 ## V. Path and Trajectory Planning of SCARA Mechanical Manipulaltor
 <p align="justify"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Path Planning</i></b> is a way for mechanical manipulators to find the shortest and most obstacle-free path from the start to its goal state. The path that is used can be a set of states (known as position and/or orientation) or even waypoints. Moreover, path planning is required to have a map of the mechanical manipulator's environment along with its start and goal states as input. This map could be represented with the use of grid maps, state spaces, or even topological roadmaps.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Trajectory Planning</i></b>, on the other hand, consists of finding a time series of successive joint angles, which allows a mechanical manipulator to move from a starting configuration toward a goal configuration, which allows the manipulator to achieve a certain task. In addition, it is used in generating a time schedule for how to follow a path given constraints such as position, velocity, and acceleration.
 
 ## VI. References
 <p align="justify"> 
