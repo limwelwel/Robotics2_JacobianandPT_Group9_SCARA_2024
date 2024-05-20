@@ -34,8 +34,11 @@
 <img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/3.png">
 <p align="center">
 <img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/4.png">
+<h3 align="center"> <b><i>Figure 1. SCARA Manipulator Jacobian Matrix Calculation</i></b> </h3>
+  
 <p align="center">
 <img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/5.png">
+<h3 align="center"> <b><i>Figure 2. SCARA Manipulator Singularity Calculation</i></b> </h3>
 
 <p align="center">
   <a href="...."><img alt="Task 1" title="Task 1" src="..."height="400px"/></a>
