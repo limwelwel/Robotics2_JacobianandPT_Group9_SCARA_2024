@@ -48,17 +48,16 @@
   <a href="https://drive.google.com/file/d/1eeaC-MJpd6UdjeQKlfFawMI1_1w4Df4t/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/d6691994aff4549a985d125d7ee75fd6425c1af2/Final/Singularity.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 2. Solving the Singularity of the Standard SCARA Manipulator</i></b> </h3> 
  
-## IV. Differential Equation of SCARA Mechanical Manipulaltor
-<p align="justify"> 
-
-## V. Path and Trajectory Planning of SCARA Mechanical Manipulaltor
+## IV. Path and Trajectory Planning of SCARA Mechanical Manipulaltor
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Path Planning</i></b> is a way for mechanical manipulators to find the shortest and most obstacle-free path from the start to its goal state. The path that is used can be a set of states (known as position and/or orientation) or even waypoints. Moreover, path planning is required to have a map of the mechanical manipulator's environment along with its start and goal states as input. This map could be represented with the use of grid maps, state spaces, or even topological roadmaps.
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Trajectory Planning</i></b>, on the other hand, consists of finding a time series of successive joint angles, which allows a mechanical manipulator to move from a starting configuration toward a goal configuration, which allows the manipulator to achieve a certain task. In addition, it is used in generating a time schedule for how to follow a path given constraints such as position, velocity, and acceleration.
 
-## VI. References
+## V. References
 <p align="justify"> 
+The Robot Hall of Fame - Powered by Carnegie Mellon University. (n.d.). http://www.robothalloffame.org/inductees/06inductees/scara.html#:~:text=The%20limited%20motion%20of%20the,ratio%20regarding%20high%20speed%20assembly.
+  
 TheFamousPeople. (n.d.). Carl Gustav Jacob Jacobi. Carl Gustav Jacob Jacobi Biography. https://www.thefamouspeople.com/profiles/carl-gustav-jacob-jacobi-6029.php
 
 <h3 align="center">G9 SCARA ENGINEERS</h3>
