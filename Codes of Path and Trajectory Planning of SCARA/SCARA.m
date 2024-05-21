@@ -5,12 +5,14 @@ close
 
 disp('SCARA')
 
-syms a1 a2 a3
+syms a1 a2 a3 a4 a5
 
 %% Link Lengths
-a1 = 20;
-a2 = 30;
-a3 = 10;
+a1 = 50;
+a2 = 60;
+a3 = 50;
+a4 = 60;
+a5 = 50;
 
 %% D-H Parameters [theta, d, r, alpha, offset]
 
