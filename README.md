@@ -37,12 +37,16 @@
 <h3 align="center"> <b><i>Figure 1. SCARA Manipulator Jacobian Matrix Calculation</i></b> </h3>
   
 <p align="center">
-<img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/5.png">
-<h3 align="center"> <b><i>Figure 2. SCARA Manipulator Singularity Calculation</i></b> </h3>
-
-<p align="center">
   <a href="https://drive.google.com/file/d/1op9exDoMc77kwkfGMwfVgLHAAUpMgtI7/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/d6691994aff4549a985d125d7ee75fd6425c1af2/Final/Jacobian%20MAtrix.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 1. Solving the Jacobian Matrix of the Standard SCARA Manipulator</i></b> </h3> 
+
+<p align="center">
+<img src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/Laboratory%202/5.png">
+<h3 align="center"> <b><i>Figure 2. SCARA Manipulator Singularity Calculation</i></b> </h3>
+  
+<p align="center">
+  <a href="https://drive.google.com/file/d/1eeaC-MJpd6UdjeQKlfFawMI1_1w4Df4t/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/d6691994aff4549a985d125d7ee75fd6425c1af2/Final/Singularity.png"height="400px"/></a>
+<h3 align="center"> <b><i>Video 2. Solving the Singularity of the Standard SCARA Manipulator</i></b> </h3> 
  
 ## IV. Differential Equation of SCARA Mechanical Manipulaltor
 <p align="justify"> 
