@@ -88,9 +88,9 @@ TheFamousPeople. (n.d.). Carl Gustav Jacob Jacobi. Carl Gustav Jacob Jacobi Biog
 <h3 align="center">G9 SCARA ENGINEERS</h3>
 
 <h4 align="center">Ada, Lemuel J. - PP <i>(Project Programmer)</i></h4>
-<h4 align="center">Cometa, Steven Shaine M. - PL <i>(Project Leader)</i></h4>
-<h4 align="center">Eje, Ken Christian D. - PQ <i>(Project Quality Engineer)</i></h4>
-<h4 align="center">Umali, Felicity D.- PS <i>(Project Supervisor)</i></h4>
+<h4 align="center">Cometa, - PL <i>(Project Leader)</i></h4>
+<h4 align="center">Eje, - PQ <i>(Project Quality Engineer)</i></h4>
+<h4 align="center">Umali,- PS <i>(Project Supervisor)</i></h4>
 
 <hr>
 <p align="center">
