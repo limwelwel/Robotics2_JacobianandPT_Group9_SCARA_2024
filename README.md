@@ -41,7 +41,7 @@
 <h3 align="center"> <b><i>Figure 2. SCARA Manipulator Singularity Calculation</i></b> </h3>
 
 <p align="center">
-  <a href="...."><img alt="Task 1" title="Task 1" src="..."height="400px"/></a>
+  <a href="https://drive.google.com/file/d/1op9exDoMc77kwkfGMwfVgLHAAUpMgtI7/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/d6691994aff4549a985d125d7ee75fd6425c1af2/Final/Jacobian%20MAtrix.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 1. Solving the Jacobian Matrix of the Standard SCARA Manipulator</i></b> </h3> 
  
 ## IV. Differential Equation of SCARA Mechanical Manipulaltor
